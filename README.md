@@ -12,5 +12,5 @@
 # ESP32
 # TUYA
 # HASS
-# Zigbe
+# Zigbee
 # 
