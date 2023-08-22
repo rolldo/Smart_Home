@@ -1,8 +1,9 @@
 # Smart_Home
 # Start 26/03/2022
-# C
-# Linux
+# C/C++
 # Python
+# Golang
+# Linux
 # Homebird
 # BLE_Mesh
 # API
